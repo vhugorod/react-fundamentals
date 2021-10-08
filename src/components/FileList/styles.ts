@@ -29,6 +29,10 @@ export const FileInfo = styled.div`
     cursor: pointer;
   }
 
+  div-main {
+    border: 0;
+  }
+
   div {
     display: flex;
     flex-direction: column;
